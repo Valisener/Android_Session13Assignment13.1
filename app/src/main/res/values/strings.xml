@@ -1,3 +1,6 @@
 <resources>
+    <!--App name-->
     <string name="app_name">Assignment13</string>
+    <!--Text that says go to website for the button-->
+    <string name="button_text">Go To Website</string>
 </resources>
